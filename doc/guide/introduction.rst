@@ -67,10 +67,9 @@ will see a few different types setups. These are the major ones:
 El-get
 ------
 
-El-get is popular because is was created when there were no other good
-alternatives. Now there are and `package.el` is the standard solution, chosen by
-the Emacs core developers.  El-get did a good job once, but is nowadays
-obsolete. Let's keep to the standard way of doing things!
+El-get is popular because it was created when there were no other good
+alternatives.  Now there are, and `package.el` is the standard
+solution, chosen by the Emacs core developers.
 
 Using package.el directly
 -------------------------
